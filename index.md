@@ -24,4 +24,4 @@ layout: page
 
 ## Selected Publications
 1. Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN
-Zhao Yi, Yang Jiacheng, Wang Shaocong, Li Xiaohui
+Zhao Yi, **Yang Jiacheng** (co-first authors, Corresponding author), Wang Shaocong, Li Xiaohui
