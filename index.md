@@ -14,12 +14,12 @@ layout: page
 
 ## Academic Background
 
-- **Sep 2018 - June 2022:** Chang'an University (BEng)
-- **Sep 2022 - Now:** Southeast University 
+- **Sep 2018 - June 2022:**  Chang'an University (BEng)
+- **Sep 2022 - Now:**  Southeast University 
 - I am expected to graduate with a master degree in June 2025.
 
 <br>
 
 ---
 
-## News and Updates
+## Selected Publications
