@@ -7,7 +7,7 @@ layout: page
 
 **Jiacheng Yang** is currently pursuing the master degree in control science and engineering with the School of Automation, Southeast University, China.
 I study <font color='DarkMagenta'>reinforcement learning</font> and <font color='DarkMagenta'>robot control</font>.
-My current research focuses on :
+My current research focuses on:
 - Safe Reinforcement Learning
 - Robust Reinforcement Learning
 - Adversarial Reinforcement Learning
