@@ -19,7 +19,7 @@ My current research focuses on:
 
 - **Sep 2018 - June 2022:**  Chang'an University (BEng)
 - **Sep 2022 - Now:**  Southeast University 
-- I am expected to graduate with a master degree in <font color='DarkMagenta'>June 2025</font>.
+- I will graduate with a master degree in <font color='DarkMagenta'>June 2025</font>.
 
 <br>
 
