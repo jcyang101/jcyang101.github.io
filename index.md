@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 
-**<font color='DarkMagenta'>Jiacheng Yang</font>** is currently pursuing the master degree in control science and engineering with the School of Automation, Southeast University, China.  
+**Jiacheng Yang** is currently pursuing the master degree in control science and engineering with the School of Automation, Southeast University, China.  
 My current research focuses on :
 - Safe Reinforcement Learning
 - Robust Reinforcement Learning
