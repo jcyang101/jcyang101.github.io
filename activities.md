@@ -9,4 +9,4 @@ title: Activities
 - **Oral Presentation:** Reinforcement learning and underwater remotely operated vehicle  
 ***<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation (YAC)</font>*** 2023
 
-<img src="https://jcyang101.github.io/images/yac2023.jpg" aign="aligncenter" width="331" height="273">
+<img src="https://jcyang101.github.io/images/yac2023.jpg" class="aligncenter" width="331" height="273">
