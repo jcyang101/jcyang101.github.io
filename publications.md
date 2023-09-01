@@ -23,3 +23,12 @@ Tongtong Shi, Ping Wang, Xudong Qi, <font color='DarkMagenta'>Jiacheng Yang</fon
 Yi Zhao, Shaocong Wang, Shiyi Liu, <font color='DarkMagenta'>Jiacheng Yang</font>  
 ***<font color='DarkMagenta'>2022 IEEE Sensors</font>***  
 [[HTML](https://ieeexplore.ieee.org/abstract/document/9967046)]
+
+<br>
+
+---
+
+## Conference Talk
+
+1. **Oral Presentation:** "Reinforcement Learning and underwater remotely operated vehicle"  
+***<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation (YAC)</font>*** 2023
