@@ -10,5 +10,5 @@ title: Activities
 ***<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation (YAC)</font>*** 2023  
 
 <div style="text-align:center;">
-  <img src="https://jcyang101.github.io/images/yac2023.jpg" width="264" height="218">
+  <img src="https://jcyang101.github.io/images/yac2023.jpg" width="237" height="196">
 </div>
