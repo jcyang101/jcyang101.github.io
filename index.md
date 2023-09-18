@@ -8,7 +8,7 @@ layout: page
 
 I am a second-year Master's student in School of Automation, [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), China.
 I study reinforcement learning and robot control.
-Here is my [Google Scholar](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
+Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 My current research focuses on:
 - Safe Reinforcement Learning
 - Robust Reinforcement Learning
