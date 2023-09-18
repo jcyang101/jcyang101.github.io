@@ -2,11 +2,11 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="https://jcyang101.github.io/images/mine.jpg" class="floatpic" width="360" height="593">
 
-**Jiacheng Yang** is currently pursuing the master degree in control science and engineering with the School of Automation, <font color='DarkMagenta'>Southeast University</font>, China.
+Hi! I am a second-year Master's student in School of Automation, <font color='DarkMagenta'>Southeast University</font>, China.
 I study <font color='DarkMagenta'>reinforcement learning</font> and <font color='DarkMagenta'>robot control</font>.
 Here is my [Google Scholar](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 My current research focuses on:
