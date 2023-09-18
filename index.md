@@ -6,8 +6,8 @@ layout: page
 
 <img src="https://jcyang101.github.io/images/mine.jpg" class="floatpic" width="360" height="593">
 
-I am a second-year Master's student in School of Automation, <font color='DarkMagenta'>Southeast University</font>, China.
-I study <font color='DarkMagenta'>reinforcement learning</font> and <font color='DarkMagenta'>robot control</font>.
+I am a second-year Master's student in School of Automation, <font color='DarkMagenta'>[Southeast University](https://www.seu.edu.cn/english/)</font>, China.
+I study reinforcement learning and robot control.
 Here is my [Google Scholar](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 My current research focuses on:
 - Safe Reinforcement Learning
