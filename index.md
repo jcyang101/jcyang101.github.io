@@ -18,7 +18,7 @@ My current research focuses on:
 
 ## Academic Background
 
-- **Sep 2018 - June 2022:**  Chang'an University (BEng)
+- **Sep 2018 - June 2022:**  Chang'an University (B.Eng)
 - **Sep 2022 - Now:**  Southeast University 
 - I will graduate with a master degree in <font color='DarkMagenta'>June 2025</font>.
 
