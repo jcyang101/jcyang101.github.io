@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About Me
+# About Me
 
 <img src="https://jcyang101.github.io/images/mine.jpg" class="floatpic" width="360" height="568">
 
