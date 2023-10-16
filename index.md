@@ -3,7 +3,7 @@ layout: page
 ---
 
 # About Me
-<div style="float: right; width: 30%; ">
+<div style="float: right; width: 35%; ">
     <img src="https://jcyang101.github.io/images/mine_fig.jpg">
 </div>
 
