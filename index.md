@@ -4,15 +4,12 @@ layout: page
 
 # About Me
 
-<img src="https://jcyang101.github.io/images/mine.jpg" class="floatpic" width="316" height="500">
 
 I am a second-year Master's student in School of Automation, [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), China, where I am fortunately advised by Prof. [<font color='DarkMagenta'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
-I study reinforcement learning and robot control.
-Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 My current research focuses on:
-- Safe Reinforcement Learning
-- Robust Reinforcement Learning
-- Adversarial Reinforcement Learning
+(a) Safe and Robust Reinforcement Learning; 
+(b) Robot Control
+Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 
 <br>
 
