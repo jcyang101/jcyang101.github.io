@@ -6,7 +6,7 @@ title: Activities
 
 ## Professional Services
 
-- Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCS)
+- Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
 
 ## Conference Talk
 
