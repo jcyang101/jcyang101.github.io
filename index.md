@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://jcyang101.github.io/images/mine_fig.jpg" class="floatpic" width=35%>
+<img src="https://jcyang101.github.io/images/mine_fig.jpg" class="floatpic" width="318" height="500">
 
 
 I am a second-year Master's student in School of Automation, [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), China, where I am fortunately advised by Prof. [<font color='DarkMagenta'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
