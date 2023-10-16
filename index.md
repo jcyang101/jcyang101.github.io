@@ -26,7 +26,7 @@ My current research focuses on:
 <br>
 
 ## Selected Publications
-1. **Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN**  [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001306)]
+1. **Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN** [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001306)]  
 Zhao Yi, <font color='DarkMagenta'>Yang Jiacheng*</font> (co-first), Wang Shaocong, Li Xiaohui  
 ***<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>*** 2023  
 
