@@ -7,8 +7,8 @@ layout: page
 <img src="https://jcyang101.github.io/images/mine_fig.jpg" class="floatpic" width="318" height="500">
 
 
-I am a second-year Master's student in School of Automation, [<font color='DarkOliveGreen'>Southeast University</font>](https://www.seu.edu.cn/english/), China, where I am fortunately advised by Prof. [<font color='DarkOliveGreen'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
-Here is my [<font color='DarkOliveGreen'>Google Scholar</font>](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
+I am a second-year Master's student in School of Automation, [<font color='Green'>Southeast University</font>](https://www.seu.edu.cn/english/), China, where I am fortunately advised by Prof. [<font color='Green'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
+Here is my [<font color='Green'>Google Scholar</font>](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 My current research focuses on:
 - Robust Reinforcement Learning 
 - Safe Reinforcement Learning 
