@@ -7,6 +7,7 @@ title: Activities
 ## Professional Services
 
 - Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (SMC)
+- Reviewer of Chinese Automation Congress
 
 ## Conference Talk
 
