@@ -21,7 +21,7 @@ My current research focuses on:
 
 - **Sep 2022 - Now:**&nbsp;&nbsp;Southeast University&nbsp;&nbsp;<font color='DarkMagenta'>(GPA: 3.75/4&nbsp;&nbsp;&nbsp;Rank: 3/194)</font>
 - **Sep 2018 - Jun 2022:**&nbsp;&nbsp;Chang'an University&nbsp;&nbsp;(BEng)
-- I will graduate with a master degree in <font color='DarkMagenta'>June 2025</font>.
+- I will graduate with a master degree in <font color='DarkMagenta'>Jun 2025</font>.
 
 <br>
 
