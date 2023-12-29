@@ -19,8 +19,8 @@ My current research focuses on:
 
 ## Academic Background
 
+- **Sep 2022 - Now:**  Southeast University GPA: <font color='DarkMagenta'>3.75/4.0 Rank: 3/194</font>  
 - **Sep 2018 - June 2022:**  Chang'an University (BEng)
-- **Sep 2022 - Now:**  Southeast University 
 - I will graduate with a master degree in <font color='DarkMagenta'>June 2025</font>.
 
 <br>
