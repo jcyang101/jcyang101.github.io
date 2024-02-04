@@ -12,11 +12,11 @@ Zhao Yi, <font color='DarkMagenta'>Yang Jiacheng*</font> (co-first), Wang Shaoco
 <!-- [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001306)]   -->
 
 2. **Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle**  
-Jiacheng Yang, Yuanda Wang, Xin Yuan  
+&zwnj;<font color='DarkMagenta'>Yang Jiacheng</font>, Yuanda Wang, Xin Yuan  
 ***<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font>*** 
 
 3. **Path Planning in Dynamic Environments through Trajectory Prediction and Reinforcement Learning**  
-Lingyue Kong, Yuanda Wang, Jiacheng Yang  
+Lingyue Kong, Yuanda Wang, <font color='DarkMagenta'>Jiacheng Yang</font>  
 ***<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font>*** 
 
 4. **CPT-DF: Congestion Prediction on Toll-Gates Using Deep Learning and Fuzzy Evaluation for Freeway Network in China**  
