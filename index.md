@@ -33,5 +33,5 @@ Zhao Yi, <font color='DarkMagenta'>Yang Jiacheng*</font> (co-first), Wang Shaoco
 
 2. **Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle**  
 <font color='DarkMagenta'>Yang Jiacheng</font>, Yuanda Wang, Xin Yuan  
-***<font color='DarkMagenta'>38th Youth Academic Annual Conference of Chinese Association of Automation</font>***
+***<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font>***
 
