@@ -31,9 +31,9 @@ Zhao Yi, **Yang Jiacheng*** (co-first), Wang Shaocong, Li Xiaohui
 *<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>* 2023  
 [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001306)]  
 
-2. **Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle**  
-&zwnj;<font color='DarkMagenta'>Yang Jiacheng</font>, Yuanda Wang, Xin Yuan  
-***<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font>***  
+2. "Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle"  
+&zwnj;**Yang Jiacheng**, Yuanda Wang, Xin Yuan  
+*<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font>*  
 [[HTML](https://ieeexplore.ieee.org/document/10401706)]  
 
 
