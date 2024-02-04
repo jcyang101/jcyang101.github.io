@@ -28,12 +28,12 @@ My current research focuses on:
 ## Selected Publications
 1. "Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN"  
 Zhao Yi, **Yang Jiacheng*** (co-first), Wang Shaocong, Li Xiaohui  
-<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>  
+&zwnj;<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>  
 [[HTML](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001306)]  
 
 2. "Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle"  
 &zwnj;**Yang Jiacheng**, Yuanda Wang, Xin Yuan  
-<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font>  
+&zwnj;<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font>  
 [[HTML](https://ieeexplore.ieee.org/document/10401706)]  
 
 
