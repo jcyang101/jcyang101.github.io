@@ -6,12 +6,14 @@ title: Publications
 
 
 ## 2024
-1. *Reinforcement Learning with Safe Action Generation for Autonomous Racing*
+
+1. *Reinforcement Learning with Safe Action Generation for Autonomous Racing*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan, Lu Dong  
 &zwnj;<font color='DarkMagenta'>IEEE Congress on Evolutionary Computation (CEC)</font>  
 
 
 ## 2023
+
 1. *Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN*  
 Yi Zhao, **Jiacheng Yang*** (co-first), Shaocong Wang, Xiaohui Li  
 &zwnj;<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>  
