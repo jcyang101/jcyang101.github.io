@@ -18,7 +18,7 @@ Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.goo
 
 - **Sep 2022 - Now:**&nbsp;&nbsp;Southeast University&nbsp;&nbsp;<font color='DarkMagenta'>(GPA: 3.75/4&nbsp;&nbsp;&nbsp;Rank: 3/194)</font>
 - **Sep 2018 - Jun 2022:**&nbsp;&nbsp;Chang'an University
-- I will graduate with a master degree in Jun 2025.
+<!-- - I will graduate with a master degree in Jun 2025. -->
 
 <br>
 
