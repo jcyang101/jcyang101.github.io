@@ -10,6 +10,7 @@ title: Publications
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan, Lu Dong  
 &zwnj;<font color='DarkMagenta'>IEEE Congress on Evolutionary Computation (CEC)</font>  
 
+
 ## 2023
 1. *Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN*  
 Yi Zhao, **Jiacheng Yang*** (co-first), Shaocong Wang, Xiaohui Li  
@@ -32,4 +33,4 @@ Tongtong Shi, Ping Wang, Xudong Qi, **Jiacheng Yang**, Rui He, Jingwen Yang, Yu 
 
 1. *Real time light-independent slope-failure monitoring using LiDAR and 2D-3D semantic segmentation*  
 Yi Zhao, Shaocong Wang, Shiyi Liu, **Jiacheng Yang**  
-&zwnj;<font color='DarkMagenta'>2022 IEEE Sensors</font>  
+&zwnj;<font color='DarkMagenta'>IEEE Sensors</font>  
