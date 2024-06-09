@@ -15,7 +15,7 @@ title: Publications
 ## 2023
 
 1. *Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN*  
-Yi Zhao, **Jiacheng Yang*** (co-first), Shaocong Wang, Xiaohui Li  
+Yi Zhao\*, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)  
 &zwnj;<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>  
 
 2. *Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle*  
