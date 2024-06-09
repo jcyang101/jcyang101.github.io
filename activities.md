@@ -22,5 +22,5 @@ title: Activities
 &zwnj;<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font>   
 
 <div style="text-align:center;">
-  <img src="https://jcyang101.github.io/images/yacnew.jpg" width="222" height="196">
+  <img src="https://jcyang101.github.io/images/yac2024.jpg" width="235" height="196">
 </div>
