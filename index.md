@@ -23,7 +23,7 @@ Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.goo
 
 ## Selected Publications
 1. *Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN*  
-Yi Zhao*, <strong>Jiacheng Yang*</strong>, Shaocong Wang, Xiaohui Li (*Equal Contribution)  
+Yi Zhao, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)  
 &zwnj;[<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001306)  
 
 2. *Reinforcement Learning with Safe Action Generation for Autonomous Racing*  
