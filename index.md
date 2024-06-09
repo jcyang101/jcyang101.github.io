@@ -7,8 +7,8 @@ layout: page
 <img src="https://jcyang101.github.io/images/mine.jpg" class="floatpic" width="333" height="500">
 
 
-I am a second-year Master's student in School of Automation, [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), China, where I am fortunately advised by Prof. [<font color='DarkMagenta'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
-My current research focuses on robust reinforcement learning and robot control.
+I am a second-year Master's student in School of Automation, [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), where I am fortunately advised by Prof. [<font color='DarkMagenta'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
+My research focuses on robust reinforcement learning and causal learning.
 Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 
 
@@ -18,13 +18,12 @@ Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.goo
 
 - **Sep 2022 - Now:**&nbsp;&nbsp;Southeast University&nbsp;&nbsp;<font color='DarkMagenta'>(GPA: 3.75/4&nbsp;&nbsp;&nbsp;Rank: 3/194)</font>
 - **Sep 2018 - Jun 2022:**&nbsp;&nbsp;Chang'an University
-<!-- - I will graduate with a master degree in Jun 2025. -->
 
 <br>
 
 ## Selected Publications
 1. *Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN*  
-Yi Zhao, **Jiacheng Yang*** (co-first), Shaocong Wang, Xiaohui Li  
+Yi Zhao*, <strong>Jiacheng Yang*</strong>, Shaocong Wang, Xiaohui Li (*Equal Contribution)  
 &zwnj;[<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001306)  
 
 2. *Reinforcement Learning with Safe Action Generation for Autonomous Racing*  
