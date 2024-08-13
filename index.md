@@ -28,7 +28,7 @@ Yi Zhao\*, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)
 
 2. *Reinforcement Learning with Safe Action Generation for Autonomous Racing*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan, Lu Dong  
-&zwnj;<font color='DarkMagenta'>IEEE Congress on Evolutionary Computation (CEC)</font>  
+&zwnj;[<font color='DarkMagenta'>IEEE Congress on Evolutionary Computation (CEC)</font>](https://ieeexplore.ieee.org/abstract/document/10611776)  
 
 3. *Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan  
