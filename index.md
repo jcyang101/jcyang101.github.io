@@ -24,7 +24,7 @@ Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.goo
 ## Selected Publications
 1. *Active Robust Adversarial Reinforcement Learning Under Temporally-Coupled Perturbations*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan, Lu Dong, Lei Xue, Changyin Sun  
-&zwnj;<font color='DarkMagenta'>IEEE Transactions on Artificial Intelligence</font>
+&zwnj;<font color='DarkMagenta'>IEEE Transactions on Artificial Intelligence (TAI)</font>
 
 2. *Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN*  
 Yi Zhao\*, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)  

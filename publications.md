@@ -9,7 +9,7 @@ title: Publications
 
 1. *Active Robust Adversarial Reinforcement Learning Under Temporally-Coupled Perturbations*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan, Lu Dong, Lei Xue, Changyin Sun  
-&zwnj;<font color='DarkMagenta'>IEEE Transactions on Artificial Intelligence</font>
+&zwnj;<font color='DarkMagenta'>IEEE Transactions on Artificial Intelligence (TAI)</font>
 
 2. *Reinforcement Learning with Safe Action Generation for Autonomous Racing*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan, Lu Dong  
