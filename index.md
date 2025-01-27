@@ -8,7 +8,7 @@ layout: page
 
 
 I am a third-year Master's student in School of Automation, [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), where I am fortunately advised by Prof. [<font color='DarkMagenta'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
-I am currently a Machine Learning Research Intern at [<fontcolor='DarkMagenta'>Nio Inc.</font>](nio.com)  
+I am currently a Machine Learning Research Intern at [<fontcolor='DarkMagenta'>Nio Inc.</font>](https://www.nio.com)  
 
 My research focuses on robust reinforcement learning and causal learning.
 Feel free to drop me an email to connect!
