@@ -18,13 +18,15 @@ title: Publications
 
 ## 2023
 
-1. *Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN*  
+1. *Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle*  
+&zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan  
+&zwnj;<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font> 
+
+
+2. *Towards One Shot & Pick All: 3D-OAS, an end-to-end framework for vision guided top-down parcel bin-picking using 3D-overlapping-aware instance segmentation and GNN*  
 Yi Zhao\*, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)  
 &zwnj;<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>  
 
-2. *Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle*  
-&zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan  
-&zwnj;<font color='DarkMagenta'>Youth Academic Annual Conference of Chinese Association of Automation</font> 
 
 3. *Path Planning in Dynamic Environments through Trajectory Prediction and Reinforcement Learning*  
 Lingyue Kong, Yuanda Wang, **Jiacheng Yang**  
