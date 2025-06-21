@@ -20,7 +20,7 @@ Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.goo
 ## Academic Background
 
 - **Sep 2022 - Now:**&nbsp;&nbsp;Southeast University&nbsp;&nbsp;<font color='DarkMagenta'>(Rank: 1/195&nbsp;&nbsp;&nbsp;GPA: 3.75/4)</font>
-- **Sep 2018 - Jun 2022:**&nbsp;&nbsp;Chang'an University
+- **Sep 2018 - Jun 2022:**&nbsp;&nbsp;Chang'an University (Supervisor: Yi Zhao)
 
 <br>
 
