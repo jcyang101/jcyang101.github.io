@@ -4,10 +4,22 @@ permalink: /gallery/index.html
 title: Gallery
 ---
 
-<span style="color:DarkMagenta; font-style:italic;">
+<style>
+.art-quote {
+  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+  font-size: 1.4em;
+  color: DarkMagenta;
+  border-left: 4px solid DarkMagenta;
+  padding-left: 16px;
+  margin: 20px 0;
+  font-style: italic;
+}
+</style>
+
+<div class="art-quote">
 *“Paintings have a life of their own that derives from the painter’s soul.”*  
 — *Vincent Van Gogh*
-</span>
+</div>
 
 <br>
 
