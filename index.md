@@ -7,7 +7,7 @@ layout: page
 <img src="https://jcyang101.github.io/images/mine.jpg" class="floatpic" width="333" height="500">
 
 
-I am a CS Ph.D. student at [<font color='DarkMagenta'>Nanjing University</font>](https://www.nju.edu.cn/en/), where I am fortunately advised by Asst. Prof. [<font color='DarkMagenta'>Wenbin Li</font>](https://liwenbin.cn/).
+Hello! I am a CS Ph.D. student at [<font color='DarkMagenta'>Nanjing University</font>](https://www.nju.edu.cn/en/), where I am fortunately advised by Asst. Prof. [<font color='DarkMagenta'>Wenbin Li</font>](https://liwenbin.cn/).
 I received my M.Eng. degree from [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), advised by Prof. [<font color='DarkMagenta'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
 
 
