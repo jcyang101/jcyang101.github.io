@@ -6,7 +6,7 @@ title: Gallery
 
 <style>
 .art-quote {
-  font-family: "Copperplate";
+  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
   font-size: 1.4em;
   color: DarkMagenta;
   border-left: 4px solid DarkMagenta;
@@ -25,7 +25,7 @@ title: Gallery
 
 ## My Drawings
 
-- Drawn on 2024: for my dearest sister and brother-in-law
+- Drawn on 2024: *for my dearest sister and brother-in-law*
 
 <div style="text-align:center;">
 <img src="https://jcyang101.github.io/images/Drawings/drawing1.jpg" alt="Drawing 1" width="400">

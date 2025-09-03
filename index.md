@@ -13,9 +13,7 @@ I received my M.Eng. degree from [<font color='DarkMagenta'>Southeast University
 
 My research focuses on large multimodal models, reinforcement learning, and visual reasoning.
 I'm always happy to collaborate with graduate/undergraduate students.
-Feel free to drop me an email to connect!  
-
-
+Feel free to drop me an email to connect!
 Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 
 
