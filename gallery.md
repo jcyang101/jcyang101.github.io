@@ -18,6 +18,8 @@ title: Gallery
 
 <div class="art-quote">
 “Paintings have a life of their own that derives from the painter’s soul.”  
+
+
 — Vincent Van Gogh
 </div>
 
