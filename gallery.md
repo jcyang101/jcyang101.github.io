@@ -4,10 +4,10 @@ permalink: /gallery/index.html
 title: Gallery
 ---
 
-<font color='DarkMagenta'>
+<span style="color:DarkMagenta; font-style:italic;">
 *“Paintings have a life of their own that derives from the painter’s soul.”*  
 — *Vincent Van Gogh*
-</font>
+</span>
 
 <br>
 
