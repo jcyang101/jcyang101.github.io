@@ -7,10 +7,12 @@ layout: page
 <img src="https://jcyang101.github.io/images/mine.jpg" class="floatpic" width="333" height="500">
 
 
-I am a third-year Master's student in School of Automation, [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), where I am fortunately advised by Prof. [<font color='DarkMagenta'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
-I am currently a Machine Learning Research Intern at [<font color='DarkMagenta'>Nio Inc.</font>](https://www.nio.com)  
+Hi! I am a CS Ph.D. student at [<font color='DarkMagenta'>Nanjing University</font>](https://www.nju.edu.cn/en/), where I am fortunately advised by Asst. Prof. [<font color='DarkMagenta'>Wenbin Li</font>](https://liwenbin.cn/).
+I received my M.Eng. degree from [<font color='DarkMagenta'>Southeast University</font>](https://www.seu.edu.cn/english/), advised by Prof. [<font color='DarkMagenta'>Changyin Sun</font>](https://ieeexplore.ieee.org/author/37279060100).
 
-My research focuses on robust reinforcement learning and causal learning.
+
+My research focuses on large multimodal models, reinforcement learning, and visual reasoning.
+I'm always happy to collaborate with graduate/undergraduate students.
 Feel free to drop me an email to connect!
 Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.google.com/citations?user=CdTephgAAAAJ&hl).
 
@@ -19,8 +21,9 @@ Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.goo
 
 ## Academic Background
 
-- **Sep 2022 - Now:**&nbsp;&nbsp;Southeast University&nbsp;&nbsp;<font color='DarkMagenta'>(Rank: 1/195&nbsp;&nbsp;&nbsp;GPA: 3.75/4)</font>
-- **Sep 2018 - Jun 2022:**&nbsp;&nbsp;Chang'an University
+- **Sep 2025 - Now:**&nbsp;&nbsp;Nanjing University
+- **Sep 2022 - Jun 2025:**&nbsp;&nbsp;Southeast University&nbsp;&nbsp;<font color='DarkMagenta'>(Rank: 1/195)</font>
+- **Sep 2018 - Jun 2022:**&nbsp;&nbsp;Chang'an University&nbsp;&nbsp;<font color='DarkMagenta'>(Rank: 7/113)</font>
 
 <br>
 
@@ -31,7 +34,7 @@ Here is my [<font color='DarkMagenta'>Google Scholar</font>](https://scholar.goo
 
 2. *Reinforcement Learning with Safe Action Generation for Autonomous Racing*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan, Lu Dong  
-&zwnj;[<font color='DarkMagenta'>IEEE Congress on Evolutionary Computation (CEC)</font>](https://ieeexplore.ieee.org/abstract/document/10611776)  
+&zwnj;[<font color='DarkMagenta'>IEEE Congress on Evolutionary Computation</font>](https://ieeexplore.ieee.org/abstract/document/10611776)  
 
 3. *Reinforcement Learning-based Position Control for a Disc-shaped Underwater Remotely Operated Vehicle*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan  

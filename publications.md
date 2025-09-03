@@ -4,6 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
+## 2025
+
+1. *Safe Reinforcement Learning for Competitive Autonomous Racing: Integrated State–Action Mapping and Exploration Guidance Framework*  
+Yuanda Wang, Jingyu Liu, Xin Yuan, **Jiacheng Yang**  
+&zwnj;<font color='DarkMagenta'>Actuators</font>  
 
 ## 2024
 
@@ -13,7 +18,7 @@ title: Publications
 
 2. *Reinforcement Learning with Safe Action Generation for Autonomous Racing*  
 &zwnj;**Jiacheng Yang**, Yuanda Wang, Xin Yuan, Lu Dong  
-&zwnj;<font color='DarkMagenta'>IEEE Congress on Evolutionary Computation (CEC)</font>  
+&zwnj;<font color='DarkMagenta'>IEEE Congress on Evolutionary Computation</font>  
 
 
 ## 2023
