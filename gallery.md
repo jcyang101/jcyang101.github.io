@@ -12,7 +12,7 @@ title: Gallery
   border-left: 4px solid DarkMagenta;
   padding-left: 16px;
   margin: 20px 0;
-  font-style: italic;
+  /* font-style: italic; */
 }
 </style>
 
@@ -25,7 +25,7 @@ title: Gallery
 
 ## My Drawings
 
-- Drawn on 2024
+- Drawn on 2024: for my dearest sister and brother-in-law
 
 <div style="text-align:center;">
 <img src="https://jcyang101.github.io/images/Drawings/drawing1.jpg" alt="Drawing 1" width="400">
