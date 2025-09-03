@@ -12,13 +12,13 @@ title: Gallery
   border-left: 4px solid DarkMagenta;
   padding-left: 16px;
   margin: 20px 0;
-  /* font-style: italic; */
+  font-style: italic;
 }
 </style>
 
 <div class="art-quote">
-*“Paintings have a life of their own that derives from the painter’s soul.”*  
-— *Vincent Van Gogh*
+“Paintings have a life of their own that derives from the painter’s soul.”  
+— Vincent Van Gogh
 </div>
 
 <br>
