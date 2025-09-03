@@ -6,7 +6,7 @@ title: Gallery
 
 <style>
 .art-quote {
-  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+  font-family: "Copperplate";
   font-size: 1.4em;
   color: DarkMagenta;
   border-left: 4px solid DarkMagenta;
