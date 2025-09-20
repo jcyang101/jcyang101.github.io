@@ -49,7 +49,7 @@ Yi Zhao\*, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)
 
 <style>
 .applause-button .count {
-  font-size: 0.9em;  
+  font-size: 0.1em;  
   font-family: "Segoe UI";
   color: DarkMagenta;
 }
