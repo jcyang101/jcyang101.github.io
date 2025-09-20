@@ -49,8 +49,8 @@ Yi Zhao\*, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)
 
 
 <div align="center">
-    <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
+    <script src="assets\js\applause-button.js"></script>
     <link rel="stylesheet" href="assets\css\applause-button.css">
-  <applause-button style="width:55px; height:55px;" color="DarkMagenta"></applause-button>
+  <applause-button style="width:50px; height:50px;" color="DarkMagenta"></applause-button>
 </div>
 
