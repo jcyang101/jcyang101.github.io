@@ -47,13 +47,6 @@ Yi Zhao\*, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)
 
 <br>
 
-<style>
-.applause-button .count {
-  font-size: 0.1em;  
-  font-family: "Segoe UI";
-  color: DarkMagenta;
-}
-</style>
 
 <div align="center">
     <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
