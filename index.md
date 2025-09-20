@@ -45,12 +45,12 @@ Yi Zhao\*, **Jiacheng Yang\***, Shaocong Wang, Xiaohui Li (\*Equal Contribution)
 &zwnj;[<font color='DarkMagenta'>Robotics and Autonomous Systems (RAS)</font>](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001306)  
 
 
-<br>  
+<br>
 
 
 <div align="center">
     <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css">
-  <applause-button style="width:60px; height:60px;font-size:10px;" color="DarkMagenta"></applause-button>
+  <applause-button style="width:60px; height:60px;font-size:1px;" color="DarkMagenta"></applause-button>
 </div>
 
